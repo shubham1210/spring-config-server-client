@@ -11,4 +11,5 @@
 ```
 
 # Flow/Architecure Diagram
-checkout this link for diagram
+
+https://github.com/shubham1210/spring-config-server-client/blob/main/Deployment%20Microservices%20and%20config%20-%20how%20to%20deploy%20configuration%20run%20time.png
